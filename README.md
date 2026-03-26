@@ -67,4 +67,4 @@
 💡 Always curious—learning something new every day. 
 
 ---
-*"Time is our greatest enemy."* 
+*"Time is our greatest enemy"* 
