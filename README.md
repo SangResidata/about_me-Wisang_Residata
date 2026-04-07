@@ -1,4 +1,4 @@
-bbug# Hi, I'm Wisang Residata..
+bbug# Hi, I'm Wisang Residata.. 👋
 
 ### Supply Chain Data Analyst | Strategic Industrial Statistician — turning domain knowledge into data insights.
 
