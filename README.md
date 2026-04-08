@@ -41,7 +41,7 @@ bbug# Hi, I'm Wisang Residata.. 👋
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| SupplyChain ETL | Full ETL pipeline extracting, cleaning and loading Supply Chain data into a relational SQL Server database | SQL Server, T-SQL, BULK INSERT |
+| Supply Chain ETL | Full ETL pipeline extracting, cleaning and loading Supply Chain data into a relational SQL Server database | SQL Server, T-SQL, BULK INSERT |
 
 *More projects coming soon!* 
 
