@@ -7,9 +7,9 @@
 - 💻 I spent around 9+ years in **IT Industry** as Business Process Analyst and Technical Project Manager before discovering my passion for data.   
 - 📊 After refocus my career into data tech, now I have 8+ years experiences in **data analytics**, processing raw data into strategic Decison.   
 - ⚙️ My education background combined in Industrial Engineering and Applied Statistics.   
-- 🛠️ I loved to build real-world projects that reflect actual data workflows 
-- 🌍 I lived in **Jakarta** Indonesia
-- 💡 I believe that deep domain knowledge understanding + data skills is a powerful combination to solve complex problems 
+- 🛠️ I loved to build real-world projects that reflect actual data workflows.   
+- 🌍 I lived in **Jakarta** Indonesia.  
+- 💡 I believe that deep domain knowledge understanding + data skills is a powerful combination to solve complex problems.   
 
 ## 🛠️ Skills & Tools
 
