@@ -43,7 +43,7 @@
 |--------|-------------|-------|
 | Supply Chain ETL | Full
 
-ETL pipeline extracting, cleaning and loading Supply Chain data into a relational SQL Server database | SQL Server, BULK INSERT |
+ETL pipeline extracting, cleaning and loading Supply Chain data into SQL Server database | SQL Server, BULK INSERT |
 
 *More projects coming soon!* 
 
